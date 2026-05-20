@@ -1,15 +1,7 @@
 # Hi there 👋
 
-I'm a Computer Science Graduate !
-
-I'm interested in:
-
-- Systems & Networks
-- Cybersecurity
-- Artificial Intelligence
-- Reinforcement Learning
-- Linux
-- Low-level programming
+Computer Science Graduate
+Interested in Systems, Networks, Cybersecurity and AI
 
 ## Featured Projects:
 
