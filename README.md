@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**ThomasAgd/ThomasAgd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science Graduate !
 
-Here are some ideas to get you started:
+I'm interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Systems & Networks
+- Cybersecurity
+- Artificial Intelligence
+- Reinforcement Learning
+- Linux
+- Low-level programming
+
+## Some of my projects:
+
+### 🧠 Mini AlphaZero Chess
+- Self-play
+- MCTS
+- Policy + Value networks
+
+### 🌐 TFTP Transfer System
+- RFC 1350
+- UDP
+- Concurrent transfers
+
+### 🗄 Self Extracting Archive System
+- Bash + C
+- Permission preservation
+- Self-restoring archives
+
+### 🐝 Artificial Bee Colony Simulation
+- Multi-agent systems
+- Swarm intelligence
+- Graph exploration
+
+### ⚙ Tic Tac Toe 68K
+- Motorola 68000 Assembly
+- Mouse interaction
+- Score tracking
