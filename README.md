@@ -11,7 +11,7 @@ I'm interested in:
 - Linux
 - Low-level programming
 
-## Some of my projects:
+## Featured Projects:
 
 ### 🧠 Mini AlphaZero Chess
 - Self-play
