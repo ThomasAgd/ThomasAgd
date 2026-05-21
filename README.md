@@ -40,6 +40,4 @@ Currently building projects around:
 - Linux
 - Cybersecurity
 
-Goal:
-
-Develop strong infrastructure and security skills before moving toward cybersecurity roles.
+My goal is to develop strong infrastructure and security skills before moving toward cybersecurity roles.
