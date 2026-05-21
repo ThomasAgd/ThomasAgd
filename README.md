@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Computer Science Graduate and I'm interested in::
+I'm a Computer Science Graduate and I'm interested in:
 
 - Systems & Networks
 - Cybersecurity
